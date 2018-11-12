@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-RNN (recurrent neural network) based sentiment analyser for tweets
+RNN (recurrent neural network) based sentiment analyser
